@@ -1,5 +1,7 @@
 # Wine-Reviews
 
+This repository contains postgresql codes that performs analysis in wine reviews csv file. You may download the data source using one of the two links mentioned below. 
+
 # Overview
 
 **Columns**: id_number, country, description, designation, points, price, province, region_1, region_2, variety, winery
