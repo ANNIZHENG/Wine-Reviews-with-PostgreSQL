@@ -2,23 +2,23 @@
 
 # Overview
 
-Columns: id_number, country, description, designation, points, price, province, region_1, region_2, variety, winery
+**Columns**: id_number, country, description, designation, points, price, province, region_1, region_2, variety, winery
 
-Expected Types of Each Column: INT, VARCHAR, VARCHAR, VARCHAR, VARCHAR, INT, INT (changed to VARCHAR), VARCHAR, VARCHAR, VARCHAR, VARCHAR, VARCHAR
+**Expected Types of Each Column**: INT, VARCHAR, VARCHAR, VARCHAR, VARCHAR, INT, INT (changed to VARCHAR), VARCHAR, VARCHAR, VARCHAR, VARCHAR, VARCHAR
 
-Author: zackthoutt
+**Author**: zackthoutt
 
-Source: https://www.kaggle.com/zynicide/wine-reviews
+**Source**: https://www.kaggle.com/zynicide/wine-reviews
 
-Source (Where data is scrapped from): https://www.winemag.com/?s=&drink_type=wine
+**Data Source**: https://www.winemag.com/?s=&drink_type=wine
 
-File Type: CSV
+**Type**: CSV
 
-Size: 49.7 MB
+**Size**: 49.7 MB
 
-License: CC BY-NC-SA 4.0
+**Data License**: CC BY-NC-SA 4.0
 
-What it contains: It contains reviews of wine from reviewers of different countries.
+**What it contains**: This data contain reviews of wine from reviewers of different countries.
 
 # Table Design
 
